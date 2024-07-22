@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaishaalikrish/puntpartners-frontend1/static/css/main.024af292.css",
-    "main.js": "/vaishaalikrish/puntpartners-frontend1/static/js/main.e225d9f0.js",
-    "static/js/453.3f5bda53.chunk.js": "/vaishaalikrish/puntpartners-frontend1/static/js/453.3f5bda53.chunk.js",
-    "index.html": "/vaishaalikrish/puntpartners-frontend1/index.html",
-    "main.024af292.css.map": "/vaishaalikrish/puntpartners-frontend1/static/css/main.024af292.css.map",
-    "main.e225d9f0.js.map": "/vaishaalikrish/puntpartners-frontend1/static/js/main.e225d9f0.js.map",
-    "453.3f5bda53.chunk.js.map": "/vaishaalikrish/puntpartners-frontend1/static/js/453.3f5bda53.chunk.js.map"
+    "main.css": "/vaishaalikrish/puntpartners/static/css/main.024af292.css",
+    "main.js": "/vaishaalikrish/puntpartners/static/js/main.8e877d47.js",
+    "static/js/453.3f5bda53.chunk.js": "/vaishaalikrish/puntpartners/static/js/453.3f5bda53.chunk.js",
+    "index.html": "/vaishaalikrish/puntpartners/index.html",
+    "main.024af292.css.map": "/vaishaalikrish/puntpartners/static/css/main.024af292.css.map",
+    "main.8e877d47.js.map": "/vaishaalikrish/puntpartners/static/js/main.8e877d47.js.map",
+    "453.3f5bda53.chunk.js.map": "/vaishaalikrish/puntpartners/static/js/453.3f5bda53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.024af292.css",
-    "static/js/main.e225d9f0.js"
+    "static/js/main.8e877d47.js"
   ]
 }

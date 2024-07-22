@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaishaalikrish/puntpartners/static/css/main.024af292.css",
-    "main.js": "/vaishaalikrish/puntpartners/static/js/main.8e877d47.js",
-    "static/js/453.3f5bda53.chunk.js": "/vaishaalikrish/puntpartners/static/js/453.3f5bda53.chunk.js",
-    "index.html": "/vaishaalikrish/puntpartners/index.html",
-    "main.024af292.css.map": "/vaishaalikrish/puntpartners/static/css/main.024af292.css.map",
-    "main.8e877d47.js.map": "/vaishaalikrish/puntpartners/static/js/main.8e877d47.js.map",
-    "453.3f5bda53.chunk.js.map": "/vaishaalikrish/puntpartners/static/js/453.3f5bda53.chunk.js.map"
+    "main.css": "/puntpartners/static/css/main.024af292.css",
+    "main.js": "/puntpartners/static/js/main.575c1a84.js",
+    "static/js/453.3f5bda53.chunk.js": "/puntpartners/static/js/453.3f5bda53.chunk.js",
+    "index.html": "/puntpartners/index.html",
+    "main.024af292.css.map": "/puntpartners/static/css/main.024af292.css.map",
+    "main.575c1a84.js.map": "/puntpartners/static/js/main.575c1a84.js.map",
+    "453.3f5bda53.chunk.js.map": "/puntpartners/static/js/453.3f5bda53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.024af292.css",
-    "static/js/main.8e877d47.js"
+    "static/js/main.575c1a84.js"
   ]
 }
